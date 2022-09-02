@@ -1,0 +1,2 @@
+# suspend_application_test
+サスペンション状態の機能テスト用
